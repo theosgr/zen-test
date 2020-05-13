@@ -1,0 +1,4259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots AdditionalDocumentUpload default 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-bdVaJa DYOsF"
+        >
+          <li
+            className="MuiListItem-root-1 MuiListItem-default-4 MuiListItem-gutters-9 sc-bwzfXH ckIReg"
+            disabled={false}
+          >
+            <div
+              className="MuiListItemText-root-13"
+            >
+              <span
+                className="MuiTypography-root-19 MuiTypography-subheading-26 MuiListItemText-primary-16"
+              >
+                <b>
+                  Feuille maladie
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-54"
+            >
+              <div
+                className="sc-EHOje hecEEV"
+              >
+                <label
+                  className="MuiFormLabel-root-58 sc-htpNat hvpSDa"
+                >
+                  <input
+                    accept=".png, .jpg, .jpeg, .pdf, .doc, .docx"
+                    onChange={[Function]}
+                    style={
+                      Object {
+                        "display": "none",
+                      }
+                    }
+                    type="file"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    className="MuiSvgIcon-root-65"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"
+                    />
+                  </svg>
+                  <p
+                    className="MuiFormHelperText-root-74 sc-ifAKCX ePCAHP"
+                  >
+                    Feuille maladie
+                     à envoyer
+                  </p>
+                  <span
+                    className="MuiButtonBase-root-109 MuiButton-root-83 CustomColorButton-greyButton-82 MuiButton-contained-94 MuiButton-raised-97 MuiButton-sizeSmall-106"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    role="button"
+                    tabIndex="0"
+                  >
+                    <span
+                      className="MuiButton-label-84"
+                    >
+                      Parcourir
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-112"
+                    />
+                  </span>
+                </label>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-58 sc-bxivhb fDphMN"
+          />
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots AdditionalDocumentUpload error 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-bdVaJa DYOsF"
+        >
+          <li
+            className="MuiListItem-root-302 MuiListItem-default-305 MuiListItem-gutters-310 sc-bwzfXH ckIReg"
+            disabled={false}
+          >
+            <div
+              className="MuiListItemText-root-314"
+            >
+              <span
+                className="MuiTypography-root-320 MuiTypography-subheading-327 MuiListItemText-primary-317"
+              >
+                <b>
+                  Feuille maladie
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-355"
+            >
+              <div
+                className="sc-EHOje hecEEV"
+              >
+                <span
+                  className="MuiTypography-root-320 MuiTypography-caption-330 sc-gzVnrw dbTwVB"
+                >
+                  Tout est cassé
+                </span>
+                <label
+                  className="MuiFormLabel-root-359 sc-htpNat hvpSDa"
+                >
+                  <input
+                    accept=".png, .jpg, .jpeg, .pdf, .doc, .docx"
+                    onChange={[Function]}
+                    style={
+                      Object {
+                        "display": "none",
+                      }
+                    }
+                    type="file"
+                  />
+                  <span
+                    className="MuiButtonBase-root-393 MuiButton-root-367 CustomColorButton-greyButton-366 MuiButton-contained-378 MuiButton-raised-381 MuiButton-sizeSmall-390"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    role="button"
+                    tabIndex="0"
+                  >
+                    <span
+                      className="MuiButton-label-368"
+                    >
+                      Parcourir
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-396"
+                    />
+                  </span>
+                </label>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-359 sc-bxivhb fDphMN"
+          />
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots AdditionalDocumentUpload loading 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-bdVaJa DYOsF"
+        >
+          <li
+            className="MuiListItem-root-119 MuiListItem-default-122 MuiListItem-gutters-127 sc-bwzfXH ckIReg"
+            disabled={false}
+          >
+            <div
+              className="MuiListItemText-root-131"
+            >
+              <span
+                className="MuiTypography-root-137 MuiTypography-subheading-144 MuiListItemText-primary-134"
+              >
+                <b>
+                  Feuille maladie
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-172"
+            >
+              <div
+                className="MuiCircularProgress-root-176 MuiCircularProgress-colorPrimary-179 MuiCircularProgress-indeterminate-178"
+                role="progressbar"
+                style={
+                  Object {
+                    "height": 40,
+                    "width": 40,
+                  }
+                }
+              >
+                <svg
+                  className="MuiCircularProgress-svg-181"
+                  viewBox="22 22 44 44"
+                >
+                  <circle
+                    className="MuiCircularProgress-circle-182 MuiCircularProgress-circleIndeterminate-184"
+                    cx={44}
+                    cy={44}
+                    fill="none"
+                    r={20.2}
+                    strokeWidth={3.6}
+                    style={Object {}}
+                  />
+                </svg>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-186 sc-bxivhb fDphMN"
+          />
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots AdditionalDocumentUpload with file 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-bdVaJa DYOsF"
+        >
+          <li
+            className="MuiListItem-root-193 MuiListItem-default-196 MuiListItem-gutters-201 sc-bwzfXH gjLCJo"
+            disabled={false}
+            hasDocument={true}
+          >
+            <div
+              className="MuiListItemText-root-205"
+            >
+              <span
+                className="MuiTypography-root-211 MuiTypography-subheading-218 MuiListItemText-primary-208"
+              >
+                <b>
+                  Feuille maladie
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-246"
+            >
+              <div
+                className="sc-EHOje hecEEV"
+              >
+                <a
+                  className="MuiButtonBase-root-276 MuiButton-root-250 MuiButton-outlined-258"
+                  href="/api/declarations/files?declarationId=1&name=MyFileName"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  rel="noopener noreferrer"
+                  role="button"
+                  tabIndex="0"
+                  target="_blank"
+                >
+                  <span
+                    className="MuiButton-label-251"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      className="MuiSvgIcon-root-279 sc-bZQynM dXvugq"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                      />
+                    </svg>
+                    Voir l'attestation
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root-295"
+                  />
+                </a>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-288 sc-bxivhb fDphMN"
+          >
+            <input
+              accept=".png, .jpg, .jpeg, .pdf, .doc, .docx"
+              onChange={[Function]}
+              style={
+                Object {
+                  "display": "none",
+                }
+              }
+              type="file"
+            />
+            <span
+              className="MuiButtonBase-root-276 MuiButton-root-250 MuiButton-text-252 MuiButton-flat-255 MuiButton-sizeSmall-273 sc-htoDjs kkvYxb"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              <span
+                className="MuiButton-label-251"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root-279"
+                  focusable="false"
+                  role="presentation"
+                  style={
+                    Object {
+                      "transform": "rotate(-90deg)",
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 6v3l4-4-4-4v3c-4.42 0-8 3.58-8 8 0 1.57.46 3.03 1.24 4.26L6.7 14.8c-.45-.83-.7-1.79-.7-2.8 0-3.31 2.69-6 6-6zm6.76 1.74L17.3 9.2c.44.84.7 1.79.7 2.8 0 3.31-2.69 6-6 6v-3l-4 4 4 4v-3c4.42 0 8-3.58 8-8 0-1.57-.46-3.03-1.24-4.26z"
+                  />
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                  />
+                </svg>
+                Remplacer le document
+              </span>
+              <span
+                className="MuiTouchRipple-root-295"
+              />
+            </span>
+          </label>
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots DatePicker default 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="MuiFormControl-root-1930 sc-iRbamj hSdyYY"
+          onClick={[Function]}
+          onKeyPress={[Function]}
+        >
+          <label
+            className="MuiFormLabel-root-1945 MuiInputLabel-root-1934 MuiInputLabel-formControl-1939 MuiInputLabel-animated-1942"
+            data-shrink={false}
+          >
+            Entrez une date
+          </label>
+          <div
+            className="MuiInputBase-root-1965 MuiInput-root-1952 MuiInput-underline-1956 MuiInputBase-formControl-1966 MuiInput-formControl-1953"
+            onClick={[Function]}
+          >
+            <input
+              aria-invalid={false}
+              className="MuiInputBase-input-1975 MuiInput-input-1960"
+              disabled={false}
+              mask={null}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              pipe={null}
+              readOnly={true}
+              required={false}
+              type="text"
+              value=""
+            />
+          </div>
+          
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots DatePicker with selected date 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="MuiFormControl-root-2004 sc-iRbamj hSdyYY"
+          onClick={[Function]}
+          onKeyPress={[Function]}
+        >
+          <label
+            className="MuiFormLabel-root-2019 MuiFormLabel-filled-2023 MuiInputLabel-root-2008 MuiInputLabel-formControl-2013 MuiInputLabel-animated-2016 MuiInputLabel-shrink-2015"
+            data-shrink={true}
+          >
+            Entrez une date
+          </label>
+          <div
+            className="MuiInputBase-root-2039 MuiInput-root-2026 MuiInput-underline-2030 MuiInputBase-formControl-2040 MuiInput-formControl-2027"
+            onClick={[Function]}
+          >
+            <input
+              aria-invalid={false}
+              className="MuiInputBase-input-2049 MuiInput-input-2034"
+              disabled={false}
+              mask={null}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              pipe={null}
+              readOnly={true}
+              required={false}
+              type="text"
+              value="02/07/2018"
+            />
+          </div>
+          
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots DeclarationQuestion default 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <li
+          className="sc-jzJRlG eNmqGU"
+        >
+          <div
+            className="sc-cSHVUG crVzvR"
+          >
+            <p
+              className="MuiTypography-root-403 MuiTypography-body1-412 sc-kAzzGY dJaPDd"
+            >
+              Avez-vous travaillé ?
+            </p>
+            <fieldset
+              className="MuiFormControl-root-438"
+            >
+              <div
+                aria-label="oui ou non"
+                className="MuiFormGroup-root-442 MuiFormGroup-row-443"
+                role="radiogroup"
+              >
+                <label
+                  className="MuiFormControlLabel-root-444 sc-VigVT iTCPvI"
+                >
+                  <span
+                    className="MuiButtonBase-root-465 MuiIconButton-root-459 MuiPrivateSwitchBase-root-455 MuiRadio-root-450 MuiRadio-colorSecondary-454 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-464"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-468"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-458"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="yes"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-477"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-403 MuiTypography-body1-412 MuiFormControlLabel-label-449"
+                  >
+                    oui
+                  </span>
+                </label>
+                <label
+                  className="MuiFormControlLabel-root-444 sc-jTzLTM kMcUae"
+                >
+                  <span
+                    className="MuiButtonBase-root-465 MuiIconButton-root-459 MuiPrivateSwitchBase-root-455 MuiRadio-root-450 MuiRadio-colorSecondary-454 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-464"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-468"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-458"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="no"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-477"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-403 MuiTypography-body1-412 MuiFormControlLabel-label-449"
+                  >
+                    non
+                  </span>
+                </label>
+              </div>
+            </fieldset>
+          </div>
+        </li>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots DeclarationQuestion no 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <li
+          className="sc-jzJRlG eNmqGU"
+        >
+          <div
+            className="sc-cSHVUG crVzvR"
+          >
+            <p
+              className="MuiTypography-root-565 MuiTypography-body1-574 sc-kAzzGY dJaPDd"
+            >
+              Avez-vous travaillé ?
+            </p>
+            <fieldset
+              className="MuiFormControl-root-600"
+            >
+              <div
+                aria-label="oui ou non"
+                className="MuiFormGroup-root-604 MuiFormGroup-row-605"
+                role="radiogroup"
+              >
+                <label
+                  className="MuiFormControlLabel-root-606 sc-VigVT iTCPvI"
+                >
+                  <span
+                    className="MuiButtonBase-root-627 MuiIconButton-root-621 MuiPrivateSwitchBase-root-617 MuiRadio-root-612 MuiRadio-colorSecondary-616 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-626"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-630"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-620"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="yes"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-639"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-565 MuiTypography-body1-574 MuiFormControlLabel-label-611"
+                  >
+                    oui
+                  </span>
+                </label>
+                <label
+                  className="MuiFormControlLabel-root-606 sc-jTzLTM iVosIG"
+                >
+                  <span
+                    className="MuiButtonBase-root-627 MuiIconButton-root-621 MuiPrivateSwitchBase-root-617 MuiRadio-root-612 MuiRadio-colorSecondary-616 MuiPrivateSwitchBase-checked-618 MuiRadio-checked-613 sc-fjdhpX gzBKGE"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-626"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-630"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={true}
+                        className="MuiPrivateSwitchBase-input-620"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="no"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-639"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-565 MuiTypography-body1-574 MuiFormControlLabel-label-611"
+                  >
+                    non
+                  </span>
+                </label>
+              </div>
+            </fieldset>
+          </div>
+        </li>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots DeclarationQuestion with children on no 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <li
+          className="sc-jzJRlG eNmqGU"
+        >
+          <div
+            className="sc-cSHVUG crVzvR"
+          >
+            <p
+              className="MuiTypography-root-727 MuiTypography-body1-736 sc-kAzzGY dJaPDd"
+            >
+              Avez-vous travaillé ?
+            </p>
+            <fieldset
+              className="MuiFormControl-root-762"
+            >
+              <div
+                aria-label="oui ou non"
+                className="MuiFormGroup-root-766 MuiFormGroup-row-767"
+                role="radiogroup"
+              >
+                <label
+                  className="MuiFormControlLabel-root-768 sc-VigVT iTCPvI"
+                >
+                  <span
+                    className="MuiButtonBase-root-789 MuiIconButton-root-783 MuiPrivateSwitchBase-root-779 MuiRadio-root-774 MuiRadio-colorSecondary-778 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-788"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-792"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-782"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="yes"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-801"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-727 MuiTypography-body1-736 MuiFormControlLabel-label-773"
+                  >
+                    oui
+                  </span>
+                </label>
+                <label
+                  className="MuiFormControlLabel-root-768 sc-jTzLTM iVosIG"
+                >
+                  <span
+                    className="MuiButtonBase-root-789 MuiIconButton-root-783 MuiPrivateSwitchBase-root-779 MuiRadio-root-774 MuiRadio-colorSecondary-778 MuiPrivateSwitchBase-checked-780 MuiRadio-checked-775 sc-fjdhpX gzBKGE"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-788"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-792"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={true}
+                        className="MuiPrivateSwitchBase-input-782"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="no"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-801"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-727 MuiTypography-body1-736 MuiFormControlLabel-label-773"
+                  >
+                    non
+                  </span>
+                </label>
+              </div>
+            </fieldset>
+          </div>
+          <div>
+            Sub question
+          </div>
+        </li>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots DeclarationQuestion with children on yes 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <li
+          className="sc-jzJRlG eNmqGU"
+        >
+          <div
+            className="sc-cSHVUG crVzvR"
+          >
+            <p
+              className="MuiTypography-root-646 MuiTypography-body1-655 sc-kAzzGY dJaPDd"
+            >
+              Avez-vous travaillé ?
+            </p>
+            <fieldset
+              className="MuiFormControl-root-681"
+            >
+              <div
+                aria-label="oui ou non"
+                className="MuiFormGroup-root-685 MuiFormGroup-row-686"
+                role="radiogroup"
+              >
+                <label
+                  className="MuiFormControlLabel-root-687 sc-VigVT iHzbAU"
+                >
+                  <span
+                    className="MuiButtonBase-root-708 MuiIconButton-root-702 MuiPrivateSwitchBase-root-698 MuiRadio-root-693 MuiRadio-colorSecondary-697 MuiPrivateSwitchBase-checked-699 MuiRadio-checked-694 sc-fjdhpX gzBKGE"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-707"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-711"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={true}
+                        className="MuiPrivateSwitchBase-input-701"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="yes"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-720"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-646 MuiTypography-body1-655 MuiFormControlLabel-label-692"
+                  >
+                    oui
+                  </span>
+                </label>
+                <label
+                  className="MuiFormControlLabel-root-687 sc-jTzLTM kMcUae"
+                >
+                  <span
+                    className="MuiButtonBase-root-708 MuiIconButton-root-702 MuiPrivateSwitchBase-root-698 MuiRadio-root-693 MuiRadio-colorSecondary-697 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-707"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-711"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-701"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="no"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-720"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-646 MuiTypography-body1-655 MuiFormControlLabel-label-692"
+                  >
+                    non
+                  </span>
+                </label>
+              </div>
+            </fieldset>
+          </div>
+          <div>
+            Sub question
+          </div>
+        </li>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots DeclarationQuestion yes 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <li
+          className="sc-jzJRlG eNmqGU"
+        >
+          <div
+            className="sc-cSHVUG crVzvR"
+          >
+            <p
+              className="MuiTypography-root-484 MuiTypography-body1-493 sc-kAzzGY dJaPDd"
+            >
+              Avez-vous travaillé ?
+            </p>
+            <fieldset
+              className="MuiFormControl-root-519"
+            >
+              <div
+                aria-label="oui ou non"
+                className="MuiFormGroup-root-523 MuiFormGroup-row-524"
+                role="radiogroup"
+              >
+                <label
+                  className="MuiFormControlLabel-root-525 sc-VigVT iHzbAU"
+                >
+                  <span
+                    className="MuiButtonBase-root-546 MuiIconButton-root-540 MuiPrivateSwitchBase-root-536 MuiRadio-root-531 MuiRadio-colorSecondary-535 MuiPrivateSwitchBase-checked-537 MuiRadio-checked-532 sc-fjdhpX gzBKGE"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-545"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-549"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={true}
+                        className="MuiPrivateSwitchBase-input-539"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="yes"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-558"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-484 MuiTypography-body1-493 MuiFormControlLabel-label-530"
+                  >
+                    oui
+                  </span>
+                </label>
+                <label
+                  className="MuiFormControlLabel-root-525 sc-jTzLTM kMcUae"
+                >
+                  <span
+                    className="MuiButtonBase-root-546 MuiIconButton-root-540 MuiPrivateSwitchBase-root-536 MuiRadio-root-531 MuiRadio-colorSecondary-535 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-545"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-549"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-539"
+                        disabled={false}
+                        name="yesOrNo"
+                        onChange={[Function]}
+                        type="radio"
+                        value="no"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-558"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-484 MuiTypography-body1-493 MuiFormControlLabel-label-530"
+                  >
+                    non
+                  </span>
+                </label>
+              </div>
+            </fieldset>
+          </div>
+        </li>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerDocumentUpload default 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-chPdSV jjJuAS"
+        >
+          <li
+            className="MuiListItem-root-808 MuiListItem-default-811 MuiListItem-gutters-816 sc-kgoBCf bcHXFg"
+            disabled={false}
+          >
+            <div
+              className="MuiListItemText-root-820"
+            >
+              <span
+                className="MuiTypography-root-826 MuiTypography-subheading-833 MuiListItemText-primary-823"
+              >
+                <b>
+                  Bulletin de salaire
+                   : 
+                  Jean Dupond
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-861"
+            >
+              <div
+                className="sc-ckVGcZ iWkbzE"
+              >
+                <label
+                  className="MuiFormLabel-root-865 sc-kGXeez jSgkvG"
+                >
+                  <input
+                    accept=".png, .jpg, .jpeg, .pdf, .doc, .docx"
+                    onChange={[Function]}
+                    style={
+                      Object {
+                        "display": "none",
+                      }
+                    }
+                    type="file"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    className="MuiSvgIcon-root-872"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"
+                    />
+                  </svg>
+                  <p
+                    className="MuiFormHelperText-root-881 sc-dxgOiQ kNWHIb"
+                  >
+                    Bulletin de salaire
+                     à envoyer
+                  </p>
+                  <span
+                    className="MuiButtonBase-root-916 MuiButton-root-890 CustomColorButton-greyButton-889 MuiButton-contained-901 MuiButton-raised-904 MuiButton-sizeSmall-913"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    role="button"
+                    tabIndex="0"
+                  >
+                    <span
+                      className="MuiButton-label-891"
+                    >
+                      Parcourir
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-919"
+                    />
+                  </span>
+                </label>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-865 sc-kpOJdX fTMOmd"
+          />
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerDocumentUpload ended this month 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-chPdSV jjJuAS"
+        >
+          <li
+            className="MuiListItem-root-926 MuiListItem-default-929 MuiListItem-gutters-934 sc-kgoBCf bcHXFg"
+            disabled={false}
+          >
+            <div
+              className="MuiListItemText-root-938"
+            >
+              <span
+                className="MuiTypography-root-944 MuiTypography-subheading-951 MuiListItemText-primary-941"
+              >
+                <b>
+                  Attestation employeur
+                   : 
+                  Jean Dupond
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-979"
+            >
+              <div
+                className="sc-ckVGcZ iWkbzE"
+              >
+                <label
+                  className="MuiFormLabel-root-983 sc-kGXeez jSgkvG"
+                >
+                  <input
+                    accept=".png, .jpg, .jpeg, .pdf, .doc, .docx"
+                    onChange={[Function]}
+                    style={
+                      Object {
+                        "display": "none",
+                      }
+                    }
+                    type="file"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    className="MuiSvgIcon-root-990"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"
+                    />
+                  </svg>
+                  <p
+                    className="MuiFormHelperText-root-999 sc-dxgOiQ kNWHIb"
+                  >
+                    Attestation employeur
+                     à envoyer
+                  </p>
+                  <span
+                    className="MuiButtonBase-root-1034 MuiButton-root-1008 CustomColorButton-greyButton-1007 MuiButton-contained-1019 MuiButton-raised-1022 MuiButton-sizeSmall-1031"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    role="button"
+                    tabIndex="0"
+                  >
+                    <span
+                      className="MuiButton-label-1009"
+                    >
+                      Parcourir
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-1037"
+                    />
+                  </span>
+                </label>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-983 sc-kpOJdX fTMOmd"
+          />
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerDocumentUpload error 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-chPdSV jjJuAS"
+        >
+          <li
+            className="MuiListItem-root-1336 MuiListItem-default-1339 MuiListItem-gutters-1344 sc-kgoBCf bcHXFg"
+            disabled={false}
+          >
+            <div
+              className="MuiListItemText-root-1348"
+            >
+              <span
+                className="MuiTypography-root-1354 MuiTypography-subheading-1361 MuiListItemText-primary-1351"
+              >
+                <b>
+                  Bulletin de salaire
+                   : 
+                  Jean Dupond
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-1389"
+            >
+              <div
+                className="sc-ckVGcZ iWkbzE"
+              >
+                <span
+                  className="MuiTypography-root-1354 MuiTypography-caption-1364 sc-eNQAEJ dhgVOm"
+                >
+                  Tout est cassé
+                </span>
+                <label
+                  className="MuiFormLabel-root-1393 sc-kGXeez jSgkvG"
+                >
+                  <input
+                    accept=".png, .jpg, .jpeg, .pdf, .doc, .docx"
+                    onChange={[Function]}
+                    style={
+                      Object {
+                        "display": "none",
+                      }
+                    }
+                    type="file"
+                  />
+                  <span
+                    className="MuiButtonBase-root-1427 MuiButton-root-1401 CustomColorButton-greyButton-1400 MuiButton-contained-1412 MuiButton-raised-1415 MuiButton-sizeSmall-1424"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    role="button"
+                    tabIndex="0"
+                  >
+                    <span
+                      className="MuiButton-label-1402"
+                    >
+                      Parcourir
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-1430"
+                    />
+                  </span>
+                </label>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-1393 sc-kpOJdX fTMOmd"
+          />
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerDocumentUpload loading 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-chPdSV jjJuAS"
+        >
+          <li
+            className="MuiListItem-root-1044 MuiListItem-default-1047 MuiListItem-gutters-1052 sc-kgoBCf bcHXFg"
+            disabled={false}
+          >
+            <div
+              className="MuiListItemText-root-1056"
+            >
+              <span
+                className="MuiTypography-root-1062 MuiTypography-subheading-1069 MuiListItemText-primary-1059"
+              >
+                <b>
+                  Bulletin de salaire
+                   : 
+                  Jean Dupond
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-1097"
+            >
+              <div
+                className="MuiCircularProgress-root-1101 MuiCircularProgress-colorPrimary-1104 MuiCircularProgress-indeterminate-1103"
+                role="progressbar"
+                style={
+                  Object {
+                    "height": 40,
+                    "width": 40,
+                  }
+                }
+              >
+                <svg
+                  className="MuiCircularProgress-svg-1106"
+                  viewBox="22 22 44 44"
+                >
+                  <circle
+                    className="MuiCircularProgress-circle-1107 MuiCircularProgress-circleIndeterminate-1109"
+                    cx={44}
+                    cy={44}
+                    fill="none"
+                    r={20.2}
+                    strokeWidth={3.6}
+                    style={Object {}}
+                  />
+                </svg>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-1111 sc-kpOJdX fTMOmd"
+          />
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerDocumentUpload with file 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-chPdSV jjJuAS"
+        >
+          <li
+            className="MuiListItem-root-1118 MuiListItem-default-1121 MuiListItem-gutters-1126 sc-kgoBCf hopKEk"
+            disabled={false}
+            hasDocument={true}
+          >
+            <div
+              className="MuiListItemText-root-1130"
+            >
+              <span
+                className="MuiTypography-root-1136 MuiTypography-subheading-1143 MuiListItemText-primary-1133"
+              >
+                <b>
+                  Bulletin de salaire
+                   : 
+                  Jean Dupond
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-1171"
+            >
+              <div
+                className="sc-ckVGcZ iWkbzE"
+              >
+                <a
+                  className="MuiButtonBase-root-1201 MuiButton-root-1175 MuiButton-outlined-1183"
+                  href="/api/employers/files?employerId=1"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  rel="noopener noreferrer"
+                  role="button"
+                  tabIndex="0"
+                  target="_blank"
+                >
+                  <span
+                    className="MuiButton-label-1176"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      className="MuiSvgIcon-root-1204 sc-jKJlTe fLFfNi"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                      />
+                    </svg>
+                    Voir 
+                    bulletin de salaire
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root-1220"
+                  />
+                </a>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-1213 sc-kpOJdX fTMOmd"
+          >
+            <input
+              accept=".png, .jpg, .jpeg, .pdf, .doc, .docx"
+              onChange={[Function]}
+              style={
+                Object {
+                  "display": "none",
+                }
+              }
+              type="file"
+            />
+            <span
+              className="MuiButtonBase-root-1201 MuiButton-root-1175 MuiButton-text-1177 MuiButton-flat-1180 MuiButton-sizeSmall-1198 sc-hMqMXs hfgHck"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              <span
+                className="MuiButton-label-1176"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root-1204"
+                  focusable="false"
+                  role="presentation"
+                  style={
+                    Object {
+                      "transform": "rotate(-90deg)",
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 6v3l4-4-4-4v3c-4.42 0-8 3.58-8 8 0 1.57.46 3.03 1.24 4.26L6.7 14.8c-.45-.83-.7-1.79-.7-2.8 0-3.31 2.69-6 6-6zm6.76 1.74L17.3 9.2c.44.84.7 1.79.7 2.8 0 3.31-2.69 6-6 6v-3l-4 4 4 4v-3c4.42 0 8-3.58 8-8 0-1.57-.46-3.03-1.24-4.26z"
+                  />
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                  />
+                </svg>
+                Remplacer le document
+              </span>
+              <span
+                className="MuiTouchRipple-root-1220"
+              />
+            </span>
+          </label>
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerDocumentUpload with file, ended this month 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-chPdSV jjJuAS"
+        >
+          <li
+            className="MuiListItem-root-1227 MuiListItem-default-1230 MuiListItem-gutters-1235 sc-kgoBCf hopKEk"
+            disabled={false}
+            hasDocument={true}
+          >
+            <div
+              className="MuiListItemText-root-1239"
+            >
+              <span
+                className="MuiTypography-root-1245 MuiTypography-subheading-1252 MuiListItemText-primary-1242"
+              >
+                <b>
+                  Attestation employeur
+                   : 
+                  Jean Dupond
+                </b>
+              </span>
+            </div>
+            <div
+              className="MuiFormControl-root-1280"
+            >
+              <div
+                className="sc-ckVGcZ iWkbzE"
+              >
+                <a
+                  className="MuiButtonBase-root-1310 MuiButton-root-1284 MuiButton-outlined-1292"
+                  href="/api/employers/files?employerId=1"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  rel="noopener noreferrer"
+                  role="button"
+                  tabIndex="0"
+                  target="_blank"
+                >
+                  <span
+                    className="MuiButton-label-1285"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      className="MuiSvgIcon-root-1313 sc-jKJlTe fLFfNi"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                      />
+                    </svg>
+                    Voir 
+                    attestation employeur
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root-1329"
+                  />
+                </a>
+              </div>
+            </div>
+          </li>
+          <label
+            className="MuiFormLabel-root-1322 sc-kpOJdX fTMOmd"
+          >
+            <input
+              accept=".png, .jpg, .jpeg, .pdf, .doc, .docx"
+              onChange={[Function]}
+              style={
+                Object {
+                  "display": "none",
+                }
+              }
+              type="file"
+            />
+            <span
+              className="MuiButtonBase-root-1310 MuiButton-root-1284 MuiButton-text-1286 MuiButton-flat-1289 MuiButton-sizeSmall-1307 sc-hMqMXs hfgHck"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              <span
+                className="MuiButton-label-1285"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root-1313"
+                  focusable="false"
+                  role="presentation"
+                  style={
+                    Object {
+                      "transform": "rotate(-90deg)",
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 6v3l4-4-4-4v3c-4.42 0-8 3.58-8 8 0 1.57.46 3.03 1.24 4.26L6.7 14.8c-.45-.83-.7-1.79-.7-2.8 0-3.31 2.69-6 6-6zm6.76 1.74L17.3 9.2c.44.84.7 1.79.7 2.8 0 3.31-2.69 6-6 6v-3l-4 4 4 4v-3c4.42 0 8-3.58 8-8 0-1.57-.46-3.03-1.24-4.26z"
+                  />
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                  />
+                </svg>
+                Remplacer le document
+              </span>
+              <span
+                className="MuiTouchRipple-root-1329"
+              />
+            </span>
+          </label>
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerQuestion default 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-kEYyzF fEebBv"
+        >
+          <div
+            className="sc-kkGfuU dQjTgp"
+          >
+            <div
+              className="sc-iAyFgw etgsTL"
+            >
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1446 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1461 MuiInputLabel-root-1450 MuiInputLabel-formControl-1455 MuiInputLabel-animated-1458"
+                  data-shrink={false}
+                >
+                  Nom employeur
+                </label>
+                <div
+                  className="MuiInputBase-root-1481 MuiInput-root-1468 MuiInput-underline-1472 MuiInputBase-formControl-1482 MuiInput-formControl-1469"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={false}
+                    className="MuiInputBase-input-1491 MuiInput-input-1476"
+                    disabled={false}
+                    name="employerName[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    required={false}
+                    type="text"
+                    value={null}
+                  />
+                </div>
+              </div>
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1446 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1461 MuiInputLabel-root-1450 MuiInputLabel-formControl-1455 MuiInputLabel-animated-1458"
+                  data-shrink={false}
+                >
+                  Nombre d'heures
+                </label>
+                <div
+                  className="MuiInputBase-root-1481 MuiInput-root-1468 MuiInput-underline-1472 MuiInputBase-formControl-1482 MuiInput-formControl-1469"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={false}
+                    className="MuiInputBase-input-1491 MuiInput-input-1476"
+                    disabled={false}
+                    maxLength={3}
+                    name="workHours[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    required={false}
+                    type="text"
+                    value={null}
+                  />
+                </div>
+              </div>
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1446 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1461 MuiInputLabel-root-1450 MuiInputLabel-formControl-1455 MuiInputLabel-animated-1458"
+                  data-shrink={false}
+                >
+                  Salaire brut €
+                </label>
+                <div
+                  className="MuiInputBase-root-1481 MuiInput-root-1468 MuiInput-underline-1472 MuiInputBase-formControl-1482 MuiInput-formControl-1469"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={false}
+                    className="MuiInputBase-input-1491 MuiInput-input-1476"
+                    disabled={false}
+                    maxLength={10}
+                    name="salary[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onMouseUp={[Function]}
+                    required={false}
+                    type="text"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiFormControl-root-1446 sc-eHgmQL crVzLv"
+            >
+              <label
+                className="MuiFormLabel-root-1461 sc-cvbbAY cDekYw"
+              >
+                Ce contrat se
+                <br />
+                termine-t-il en
+                 
+                July
+                 ?
+              </label>
+              <div
+                aria-label="oui ou non"
+                className="MuiFormGroup-root-1498 MuiFormGroup-row-1499"
+                role="radiogroup"
+              >
+                <label
+                  className="MuiFormControlLabel-root-1500 sc-VigVT iTCPvI"
+                >
+                  <span
+                    className="MuiButtonBase-root-1521 MuiIconButton-root-1515 MuiPrivateSwitchBase-root-1511 MuiRadio-root-1506 MuiRadio-colorSecondary-1510 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-1520"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-1524"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-1514"
+                        disabled={false}
+                        name="hasEndedThisMonth[1]"
+                        onChange={[Function]}
+                        type="radio"
+                        value="yes"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-1568"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-1533 MuiTypography-body1-1542 MuiFormControlLabel-label-1505"
+                  >
+                    oui
+                  </span>
+                </label>
+                <label
+                  className="MuiFormControlLabel-root-1500 sc-jTzLTM kMcUae"
+                >
+                  <span
+                    className="MuiButtonBase-root-1521 MuiIconButton-root-1515 MuiPrivateSwitchBase-root-1511 MuiRadio-root-1506 MuiRadio-colorSecondary-1510 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-1520"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-1524"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-1514"
+                        disabled={false}
+                        name="hasEndedThisMonth[1]"
+                        onChange={[Function]}
+                        type="radio"
+                        value="no"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-1568"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-1533 MuiTypography-body1-1542 MuiFormControlLabel-label-1505"
+                  >
+                    non
+                  </span>
+                </label>
+              </div>
+            </div>
+          </div>
+          <button
+            className="sc-jWBwVP cfPKOA"
+            onClick={[Function]}
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-1524 sc-brqgnP bPnUCn"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+            <span
+              className="MuiTypography-root-1533 MuiTypography-caption-1543"
+              style={
+                Object {
+                  "color": "black",
+                }
+              }
+            >
+              Supprimer
+            </span>
+          </button>
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerQuestion filled 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-kEYyzF fEebBv"
+        >
+          <div
+            className="sc-kkGfuU dQjTgp"
+          >
+            <div
+              className="sc-iAyFgw etgsTL"
+            >
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1584 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1599 MuiFormLabel-filled-1603 MuiInputLabel-root-1588 MuiInputLabel-formControl-1593 MuiInputLabel-animated-1596 MuiInputLabel-shrink-1595"
+                  data-shrink={true}
+                >
+                  Nom employeur
+                </label>
+                <div
+                  className="MuiInputBase-root-1619 MuiInput-root-1606 MuiInput-underline-1610 MuiInputBase-formControl-1620 MuiInput-formControl-1607"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={false}
+                    className="MuiInputBase-input-1629 MuiInput-input-1614"
+                    disabled={false}
+                    name="employerName[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    required={false}
+                    type="text"
+                    value="Paul"
+                  />
+                </div>
+              </div>
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1584 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1599 MuiFormLabel-filled-1603 MuiInputLabel-root-1588 MuiInputLabel-formControl-1593 MuiInputLabel-animated-1596 MuiInputLabel-shrink-1595"
+                  data-shrink={true}
+                >
+                  Nombre d'heures
+                </label>
+                <div
+                  className="MuiInputBase-root-1619 MuiInput-root-1606 MuiInput-underline-1610 MuiInputBase-formControl-1620 MuiInput-formControl-1607"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={false}
+                    className="MuiInputBase-input-1629 MuiInput-input-1614"
+                    disabled={false}
+                    maxLength={3}
+                    name="workHours[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    required={false}
+                    type="text"
+                    value="20"
+                  />
+                </div>
+              </div>
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1584 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1599 MuiFormLabel-filled-1603 MuiInputLabel-root-1588 MuiInputLabel-formControl-1593 MuiInputLabel-animated-1596 MuiInputLabel-shrink-1595"
+                  data-shrink={true}
+                >
+                  Salaire brut €
+                </label>
+                <div
+                  className="MuiInputBase-root-1619 MuiInput-root-1606 MuiInput-underline-1610 MuiInputBase-formControl-1620 MuiInput-formControl-1607"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={false}
+                    className="MuiInputBase-input-1629 MuiInput-input-1614"
+                    disabled={false}
+                    maxLength={10}
+                    name="salary[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onMouseUp={[Function]}
+                    required={false}
+                    type="text"
+                    value="200,00€"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiFormControl-root-1584 sc-eHgmQL crVzLv"
+            >
+              <label
+                className="MuiFormLabel-root-1599 sc-cvbbAY cDekYw"
+              >
+                Ce contrat se
+                <br />
+                termine-t-il en
+                 
+                July
+                 ?
+              </label>
+              <div
+                aria-label="oui ou non"
+                className="MuiFormGroup-root-1636 MuiFormGroup-row-1637"
+                role="radiogroup"
+              >
+                <label
+                  className="MuiFormControlLabel-root-1638 sc-VigVT iHzbAU"
+                >
+                  <span
+                    className="MuiButtonBase-root-1659 MuiIconButton-root-1653 MuiPrivateSwitchBase-root-1649 MuiRadio-root-1644 MuiRadio-colorSecondary-1648 MuiPrivateSwitchBase-checked-1650 MuiRadio-checked-1645 sc-fjdhpX gzBKGE"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-1658"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-1662"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={true}
+                        className="MuiPrivateSwitchBase-input-1652"
+                        disabled={false}
+                        name="hasEndedThisMonth[1]"
+                        onChange={[Function]}
+                        type="radio"
+                        value="yes"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-1706"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-1671 MuiTypography-body1-1680 MuiFormControlLabel-label-1643"
+                  >
+                    oui
+                  </span>
+                </label>
+                <label
+                  className="MuiFormControlLabel-root-1638 sc-jTzLTM kMcUae"
+                >
+                  <span
+                    className="MuiButtonBase-root-1659 MuiIconButton-root-1653 MuiPrivateSwitchBase-root-1649 MuiRadio-root-1644 MuiRadio-colorSecondary-1648 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-1658"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-1662"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-1652"
+                        disabled={false}
+                        name="hasEndedThisMonth[1]"
+                        onChange={[Function]}
+                        type="radio"
+                        value="no"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-1706"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-1671 MuiTypography-body1-1680 MuiFormControlLabel-label-1643"
+                  >
+                    non
+                  </span>
+                </label>
+              </div>
+            </div>
+          </div>
+          <button
+            className="sc-jWBwVP cfPKOA"
+            onClick={[Function]}
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-1662 sc-brqgnP bPnUCn"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+            <span
+              className="MuiTypography-root-1671 MuiTypography-caption-1681"
+              style={
+                Object {
+                  "color": "black",
+                }
+              }
+            >
+              Supprimer
+            </span>
+          </button>
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EmployerQuestion filled with errors 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-kEYyzF fEebBv"
+        >
+          <div
+            className="sc-kkGfuU dQjTgp"
+          >
+            <div
+              className="sc-iAyFgw etgsTL"
+            >
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1722 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1737 MuiFormLabel-error-1740 MuiInputLabel-error-1729 MuiInputLabel-root-1726 MuiInputLabel-formControl-1731 MuiInputLabel-animated-1734"
+                  data-shrink={false}
+                >
+                  Nom employeur
+                </label>
+                <div
+                  className="MuiInputBase-root-1757 MuiInput-root-1744 MuiInput-underline-1748 MuiInputBase-error-1763 MuiInput-error-1749 MuiInputBase-formControl-1758 MuiInput-formControl-1745"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={true}
+                    className="MuiInputBase-input-1767 MuiInput-input-1752"
+                    disabled={false}
+                    name="employerName[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    required={false}
+                    type="text"
+                    value=""
+                  />
+                </div>
+                <p
+                  className="MuiFormHelperText-root-1774 MuiFormHelperText-error-1775"
+                >
+                  Champ obligatoire
+                </p>
+              </div>
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1722 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1737 MuiFormLabel-error-1740 MuiInputLabel-error-1729 MuiFormLabel-filled-1741 MuiInputLabel-root-1726 MuiInputLabel-formControl-1731 MuiInputLabel-animated-1734 MuiInputLabel-shrink-1733"
+                  data-shrink={true}
+                >
+                  Nombre d'heures
+                </label>
+                <div
+                  className="MuiInputBase-root-1757 MuiInput-root-1744 MuiInput-underline-1748 MuiInputBase-error-1763 MuiInput-error-1749 MuiInputBase-formControl-1758 MuiInput-formControl-1745"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={true}
+                    className="MuiInputBase-input-1767 MuiInput-input-1752"
+                    disabled={false}
+                    maxLength={3}
+                    name="workHours[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    required={false}
+                    type="text"
+                    value="Bim"
+                  />
+                </div>
+                <p
+                  className="MuiFormHelperText-root-1774 MuiFormHelperText-error-1775 MuiFormHelperText-filled-1780"
+                >
+                  Entrez un nombre entier
+                </p>
+              </div>
+              <div
+                aria-describedby={null}
+                className="MuiFormControl-root-1722 sc-hSdWYo byYEWR"
+                title={null}
+              >
+                <label
+                  className="MuiFormLabel-root-1737 MuiFormLabel-error-1740 MuiInputLabel-error-1729 MuiFormLabel-filled-1741 MuiInputLabel-root-1726 MuiInputLabel-formControl-1731 MuiInputLabel-animated-1734 MuiInputLabel-shrink-1733"
+                  data-shrink={true}
+                >
+                  Salaire brut €
+                </label>
+                <div
+                  className="MuiInputBase-root-1757 MuiInput-root-1744 MuiInput-underline-1748 MuiInputBase-error-1763 MuiInput-error-1749 MuiInputBase-formControl-1758 MuiInput-formControl-1745"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={true}
+                    className="MuiInputBase-input-1767 MuiInput-input-1752"
+                    disabled={false}
+                    maxLength={10}
+                    name="salary[1]"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onMouseUp={[Function]}
+                    required={false}
+                    type="text"
+                    value=""
+                  />
+                </div>
+                <p
+                  className="MuiFormHelperText-root-1774 MuiFormHelperText-error-1775 MuiFormHelperText-filled-1780"
+                >
+                  Entrez un nombre entier
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiFormControl-root-1722 sc-eHgmQL crVzLv"
+            >
+              <label
+                className="MuiFormLabel-root-1737 sc-cvbbAY cDekYw"
+              >
+                Ce contrat se
+                <br />
+                termine-t-il en
+                 
+                July
+                 ?
+                <p
+                  className="MuiFormHelperText-root-1774 MuiFormHelperText-error-1775"
+                >
+                  Champ obligatoire
+                </p>
+              </label>
+              <div
+                aria-label="oui ou non"
+                className="MuiFormGroup-root-1782 MuiFormGroup-row-1783"
+                role="radiogroup"
+              >
+                <label
+                  className="MuiFormControlLabel-root-1784 sc-VigVT iTCPvI"
+                >
+                  <span
+                    className="MuiButtonBase-root-1805 MuiIconButton-root-1799 MuiPrivateSwitchBase-root-1795 MuiRadio-root-1790 MuiRadio-colorSecondary-1794 sc-fjdhpX kKsLJr"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-1804"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-1808"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={false}
+                        className="MuiPrivateSwitchBase-input-1798"
+                        disabled={false}
+                        name="hasEndedThisMonth[1]"
+                        onChange={[Function]}
+                        type="radio"
+                        value="yes"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-1852"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-1817 MuiTypography-body1-1826 MuiFormControlLabel-label-1789"
+                  >
+                    oui
+                  </span>
+                </label>
+                <label
+                  className="MuiFormControlLabel-root-1784 sc-jTzLTM iVosIG"
+                >
+                  <span
+                    className="MuiButtonBase-root-1805 MuiIconButton-root-1799 MuiPrivateSwitchBase-root-1795 MuiRadio-root-1790 MuiRadio-colorSecondary-1794 MuiPrivateSwitchBase-checked-1796 MuiRadio-checked-1791 sc-fjdhpX gzBKGE"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-1804"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-1808"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                        />
+                      </svg>
+                      <input
+                        checked={true}
+                        className="MuiPrivateSwitchBase-input-1798"
+                        disabled={false}
+                        name="hasEndedThisMonth[1]"
+                        onChange={[Function]}
+                        type="radio"
+                        value="no"
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-1852"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-1817 MuiTypography-body1-1826 MuiFormControlLabel-label-1789"
+                  >
+                    non
+                  </span>
+                </label>
+              </div>
+            </div>
+          </div>
+          <button
+            className="sc-jWBwVP cfPKOA"
+            onClick={[Function]}
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-1808 sc-brqgnP bPnUCn"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+            <span
+              className="MuiTypography-root-1817 MuiTypography-caption-1827"
+              style={
+                Object {
+                  "color": "black",
+                }
+              }
+            >
+              Supprimer
+            </span>
+          </button>
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EuroInput default 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <input
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseUp={[Function]}
+          type="text"
+          value=""
+        />
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EuroInput with big float value 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <input
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseUp={[Function]}
+          type="text"
+          value="10 200,40€"
+        />
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EuroInput with big integer value 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <input
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseUp={[Function]}
+          type="text"
+          value="10 000,00€"
+        />
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EuroInput with float value 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <input
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseUp={[Function]}
+          type="text"
+          value="1,20€"
+        />
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EuroInput with integer value 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <input
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseUp={[Function]}
+          type="text"
+          value="1,00€"
+        />
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots MaternalAssistantCheck default 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <div
+          className="sc-jDwBTQ dTAdZL"
+        >
+          <h2
+            className="MuiTypography-root-1859 MuiTypography-title-1865"
+          >
+            Êtes-vous assistante maternelle ?
+          </h2>
+          <div
+            className="sc-gPEVay kkfxSU"
+          >
+            <button
+              className="MuiButtonBase-root-1920 MuiButton-root-1894 MuiButton-contained-1905 MuiButton-raised-1908"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex="0"
+              type="button"
+            >
+              <span
+                className="MuiButton-label-1895"
+              >
+                Oui
+              </span>
+              <span
+                className="MuiTouchRipple-root-1923"
+              />
+            </button>
+            <button
+              className="MuiButtonBase-root-1920 MuiButton-root-1894 MuiButton-contained-1905 MuiButton-raised-1908"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex="0"
+              type="button"
+            >
+              <span
+                className="MuiButton-label-1895"
+              >
+                Non
+              </span>
+              <span
+                className="MuiTouchRipple-root-1923"
+              />
+            </button>
+          </div>
+        </div>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots PEConnectLink dark 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <a
+          className="sc-jlyJG fDQjyt"
+          href="/api/login"
+        >
+          <img
+            alt=""
+            className="sc-gipzik losvmq"
+            height="31"
+            src="PEConnectIcon-white.svg"
+            width="34"
+          />
+          <span
+            className="sc-csuQGl beLOaz"
+          >
+            Se connecter avec pôle emploi
+          </span>
+        </a>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots PEConnectLink light 1`] = `
+<div
+  data-css-18sl43g=""
+>
+  <div
+    data-css-1uksfg7=""
+  >
+    <div
+      data-css-t3tkv6=""
+    >
+      <div
+        data-css-1v8lkxq=""
+      >
+        <a
+          className="sc-jlyJG fzuVmT"
+          href="/api/login"
+        >
+          <img
+            alt=""
+            className="sc-gipzik losvmq"
+            height="31"
+            src="PEConnectIcon-blue.svg"
+            width="34"
+          />
+          <span
+            className="sc-csuQGl beLOaz"
+          >
+            Se connecter avec pôle emploi
+          </span>
+        </a>
+        <div>
+          <div
+            data-css-1xjdp6g=""
+          >
+            <div
+              data-css-1u3clyi=""
+            />
+            <div
+              data-css-1vfpuyw=""
+            />
+          </div>
+          <div
+            data-css-1l117w4=""
+          >
+            <div
+              data-css-6x2xk9=""
+            />
+            <div
+              data-css-dh4rml=""
+            />
+          </div>
+          <div
+            data-css-3dqrhs=""
+          >
+            <div
+              data-css-jidh41=""
+            />
+            <div
+              data-css-zkhvkf=""
+            />
+          </div>
+          <div
+            data-css-14agfjn=""
+          >
+            <div
+              data-css-1dkszzo=""
+            />
+            <div
+              data-css-mqumhe=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

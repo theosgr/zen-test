@@ -1,0 +1,113 @@
+version: "2"
+services:
+  nginx:
+    image: nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - "./nginx/production.conf:/etc/nginx/conf.d/default.conf"
+      - "./nginx/.htpasswd:/etc/nginx/.htpasswd"
+      - "./nginx/dhparam.pem:/etc/nginx/ssl/dhparam.pem"
+      - "./nginx/zen.crt:/etc/nginx/ssl/zen.crt"
+      - "./nginx/entrust-zen.pole-emploi.fr-key.pem:/etc/nginx/ssl/entrust-zen.pole-emploi.fr-key.pem"
+      - "./back/extracts:/home/extracts"
+      - "./front:/home/front"
+      - "./front-admin:/home/front-admin"
+    environment:
+      - TZ=Europe/Paris
+    networks:
+      actualisation_network:
+        ipv4_address: 172.0.0.10
+
+  node:
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: dockerfile_back
+    volumes:
+      - "./back:/home/back"
+    expose:
+      - "8080"
+      - "8081"
+    networks:
+      actualisation_network:
+        ipv4_address: 172.0.0.100
+    depends_on:
+      - "db"
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - CLIENT_OAUTH_ID=${CLIENT_OAUTH_ID}
+      - CLIENT_OAUTH_SECRET=${CLIENT_OAUTH_SECRET}
+      - API_HOST=${API_HOST}
+      - TOKEN_HOST=${TOKEN_HOST}
+      - APP_HOST=${APP_HOST}
+      - COOKIE_SECRET=${COOKIE_SECRET}
+      - AUTH_REDIRECT_URI=${AUTH_REDIRECT_URI}
+      - SENTRY_ENV=${SENTRY_ENV}
+      - SENTRY_URL=${SENTRY_URL}
+      - EMAIL_KEY=${EMAIL_KEY}
+      - EMAIL_KEY_SECRET=${EMAIL_KEY_SECRET}
+      - TZ=Europe/Paris
+      - SLACK_WEBHOOK_SU_ZEN=${SLACK_WEBHOOK_SU_ZEN}
+      - SLACK_WEBHOOK_SU_ZEN_TECH=${SLACK_WEBHOOK_SU_ZEN_TECH}
+      - SEND_CAMPAIGN_EMAILS=${SEND_CAMPAIGN_EMAILS}
+      - SEND_TRANSACTIONAL_EMAILS=${SEND_TRANSACTIONAL_EMAILS}
+      - TRANSMIT_DATA_TO_PE=${TRANSMIT_DATA_TO_PE}
+      - AUTHORIZE_ALL_USERS=${AUTHORIZE_ALL_USERS}
+
+  front:
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: dockerfile_front
+    volumes:
+      - "./front:/home/front"
+    expose:
+      - "3000"
+    environment:
+      - TZ=Europe/Paris
+    networks:
+      actualisation_network:
+        ipv4_address: 172.0.0.110
+
+  front-admin:
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: dockerfile_front
+    volumes:
+      - "./front-admin:/home/front"
+    expose:
+      - "3000"
+    environment:
+      - TZ=Europe/Paris
+    networks:
+      actualisation_network:
+        ipv4_address: 172.0.0.111
+
+  db:
+    image: postgres
+    restart: always
+    networks:
+      actualisation_network:
+        ipv4_address: 172.0.0.150
+    volumes:
+      - postgres-data:/var/lib/postgresql
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - TZ=Europe/Paris
+
+networks:
+  actualisation_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.0.0.0/16
+          gateway: 172.0.0.1
+
+volumes:
+  postgres-data:
